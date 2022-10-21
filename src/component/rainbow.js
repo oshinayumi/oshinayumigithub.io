@@ -1,5 +1,5 @@
 import React from 'react';
-import Alphabet from './rainbow';
+import Alphabet from '../component/alphabet';
 
 function Rainbow() {
     return (
@@ -8,7 +8,7 @@ function Rainbow() {
             <Alphabet color="violet">R</Alphabet>
             <Alphabet color="indigo">A</Alphabet>
             <Alphabet color="blue">I</Alphabet>
-            <Alphabet color="green">N</Alphabet>
+            <Alphabet color="purple">N</Alphabet>
             <Alphabet color="yellow">B</Alphabet>
             <Alphabet color="orange">O</Alphabet>
             <Alphabet color="red">W</Alphabet>
